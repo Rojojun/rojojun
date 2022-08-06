@@ -1,5 +1,11 @@
 <div align="center">
 
+<!--
+Title!![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontAlignY=45&fontAlign=75&desc=Energetic%20Hojun's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
+// SpaceBar : %20
+더 많은 정보는 여기서 : https://github.com/kyechan99/capsule-render
+-->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontAlignY=45&fontAlign=75&desc=Energetic%20Hojun's%20Git%20Hub%20Profile&descAlign=77&descAlignY=58&animation=fadeIn)
 
 ### About me
@@ -8,15 +14,32 @@ A. Because My name is Hojun... In spanish, R is H sound! It's like wordplay<br/>
 Q. What do you hate<br/>
 A. Political and greedy people
 
+<!--
+status 넣는거 ![닉네임's github stats](https://github-readme-stats.vercel.app/api?username=Rojojun&show_icons=true&theme=테마)
+더 많은 정보는 여기서 : https://github.com/anuraghazra/github-readme-stats
+-->
+
 ![Rojojun's github stats](https://github-readme-stats.vercel.app/api?username=Rojojun&show_icons=true&theme=tokyonight)
 
 ### Projects
 updating...
 
+<!--
+Total visitors?!
+더 많은 정보는 여기서 : https://hits.seeyoufarm.com/
+// 저기서 그냥 링크 만드는게 더 편함
+-->
+
 ### Total Visitors 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojojun&count_bg=%231CC4B3&title_bg=%233C4341&icon=riotgames.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #
+
+<!--
+Badges and Icons
+<img src="https://img.shields.io/badge/스택이름-색코드(#제외)?style=for-the-badge&logo=스택이름(공백허용안됨)&logoColor=white">
+// icons : https://simpleicons.org/
+-->
 
 ### Tech Stacks
 #### Languages
