@@ -63,7 +63,7 @@ Badges and Icons
 #
 
 ### SNS lists
- <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/godhojungenius/"> <img src="https://img.shields.io/badge/Tech BLOG-03c75a?style=for-the-badge&logo=naver&logoColor=white" href="https://www.instagram.com/godhojungenius/" href="https://blog.naver.com/zoloman316"> <img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:zoloman316@gmail.com">
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" src="https://www.instagram.com/godhojungenius/"> <img src="https://img.shields.io/badge/Tech BLOG-03c75a?style=for-the-badge&logo=naver&logoColor=white" src="https://www.instagram.com/godhojungenius/" href="https://blog.naver.com/zoloman316"> <img src="https://img.shields.io/badge/MAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" src="mailto:zoloman316@gmail.com">
 
 </center>
 <!--
