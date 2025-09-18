@@ -1,5 +1,6 @@
 # Hojun Profile 🤞
-![Rojojun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rojojun&show_icons=true&theme=tokyonight)
+![Rojojun's github stats](https://github-readme-stats.vercel.app/api?username=Rojojun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rojojun&layout=compact)
 
 
 ### ⚙️
