@@ -9,3 +9,4 @@
 <br />
 <strong>You and I can do it!
 
+MyLog: https://medium.com/@hjna316
